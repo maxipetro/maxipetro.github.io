@@ -6,7 +6,7 @@
 
 <br>
 
-<h4>Talks</4>
+<h4>Talks</h4>
 
 <p>Elementary Infinity-Toposes from Type Theory, CMS Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
 
