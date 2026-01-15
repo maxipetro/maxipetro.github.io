@@ -14,5 +14,11 @@
 
 <p>Nominalism and Infinite Cardinality, ic.SoAP/EENPS, Belgrade and Geneva/Lugano, 2021</p>
 
+<h4>Formalisation projects</h4>
+
+<p>Integers as Higher Inductive Types, <a href="https://github.com/heimerzieher/Coq-HoTT">repo</a></p>
+
+<br>
+
 
 <?php include 'footer.php'; ?>
