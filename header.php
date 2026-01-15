@@ -11,14 +11,7 @@
     </head>
     <body>
         <?php if($selected == 'index') { ?>
-        <!-- <div class="container" id="pictureContainer">
-            <div class="card">
-                <img src="img/picture.jpg" class="card-img-top" style="max-width: 150px;">
-                <div class="card-body">
-                    <p class="card-text">Maximilian Petrowitsch</p>
-                </div>
-            </div>
-        </div> -->
+            
         <?php }?>
 
         <div class="container shadow-lg p-5 mb-5 bg-white rounded" id="mainContainer">
