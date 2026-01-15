@@ -1,10 +1,9 @@
 <?php $selected = 'index'; include 'header.php';?>
 
 <div class="d-flex">
-    <div class="flex-grow-1 ms-3">
+    <div class="row text-center">
         <div class="col-md-6">
             <img src="img/picture.jpg" class="card-img-top" style="max-width: 150px;">
-            <h3 class="text-center">Maximilian Petrowitsch</h3>
         </div>
         <div class="col-md-6">
             <p>I am a PhD at student at <a href="https://www.uwo.ca">Western University</a> interested in (higher) category theory, logic and type theory and homotopical algebra. My supervisors are Chris Kapulkin (Department of Mathematics) and John Bell (Department of Philosophy). I obtained a MSc in Mathematics from Western and an MA in Philosophy from <a href="https://www.usi.ch/en/education/master/philosophy">Università della Svizzera italiana, Lugano, Switzerland</a>.</p>
