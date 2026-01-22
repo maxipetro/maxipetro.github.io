@@ -20,5 +20,4 @@
 
             <p>Integers as Higher Inductive Types, Formalisation of (Altenkirch and Scoccola 2020) in Coq, <a href="https://github.com/heimerzieher/Coq-HoTT/tree/integers_hit">repo</a></p>
 
-
 <?php include 'footer.php'; ?>
