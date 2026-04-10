@@ -8,31 +8,31 @@ body {
 
 @media (min-width: 576px) {
 #mainContainer {
-    max-width: 540px;
+    max-width: 650px;
 }
 }
 
 @media (min-width: 768px) {
 #mainContainer {
-    max-width: 610px;
+    max-width: 730px;
 }
 }
 
 @media (min-width: 992px) {
 #mainContainer {
-    max-width: 695x;
+    max-width: 835px;
 }
 }
 
 @media (min-width: 1200px) {
 #mainContainer {
-    max-width: 720px;
+    max-width: 865px;
 }
 }
 
 @media (min-width: 1400px) {
 #mainContainer {
-    max-width: 840px;
+    max-width: 1000px;
 }
 }
 
