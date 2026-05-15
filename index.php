@@ -7,6 +7,9 @@
                     
                         <p>My main interest is using category theory to study models and the semantics of various logical systems. Recently, I have been working on the interpretation and semantics of homotopy type theory (HoTT) in &infin;-categories. Part of my research is developing a semantic framework for HoTT in elementary &infin;-toposes.</p>
 
+
+                        <p>I am also interested in formalisation, autoformalisation and automated theorem proving, in particular using methods from machine leraning.</p>
+
                         <p>I run and climb.</p>
 
                         <p><a href="mailto:mpetrowi@uwo.ca">Email</a><br><a href="https://github.com/maxipetro">GitHub</a><br><a href="https://strava.app.link/LM98IZV7WZb">Strava</a></p>

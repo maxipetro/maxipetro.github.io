@@ -18,6 +18,8 @@
 
             <h4>Formalisation projects</h4>
 
-            <p>Integers as Higher Inductive Types, Formalisation of (Altenkirch and Scoccola 2020) in Coq, <a href="https://github.com/heimerzieher/Coq-HoTT/tree/integers_hit">repo</a></p>
+            <p>I am contributer of the <a href="https://github.com/HoTT/Coq-HoTT">Coq-HoTT Library</p>.
+
+            <p>Most recent project: Formalisation of 'Integers as Higher Inductive Types' (Altenkirch and Scoccola 2020)' in Rocq/Coq, <a href="https://github.com/maxipetro/Coq-HoTT/tree/integers_hit_fresh">repo</a> (jww. Dan Christensen)</p>
 
 <?php include 'footer.php'; ?>
