@@ -1,4 +1,4 @@
-<?php $selected = 'reserach'; include 'header.php';?>
+<?php $selected = 'Reserach'; include 'header.php';?>
 
             <h4>Preprints</h4>
 

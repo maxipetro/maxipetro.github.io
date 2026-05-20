@@ -1,4 +1,4 @@
-<?php $selected = 'index'; include 'header.php';?>
+<?php $selected = 'About'; include 'header.php';?>
 
             <div class="d-flex">
                 <div class="row">

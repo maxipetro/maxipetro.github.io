@@ -1,4 +1,4 @@
-<?php $selected = 'teaching'; include 'header.php';?>
+<?php $selected = 'Teaching'; include 'header.php';?>
 
             <h4>Co-Teacher</h4>
 
