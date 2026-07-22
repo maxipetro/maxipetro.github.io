@@ -12,7 +12,7 @@
 
             <b>Elementary ∞-Toposes from Type Theory</b>
 
-            <p> Category Theory 2026, Johns Hopkins University, Baltimore, July 16, 2026</p>
+            <p> Category Theory 2026 (International Congress of Mathematicians), Johns Hopkins University, Baltimore, July 16, 2026</p>
 
             <p> 3rd Workshop on Syntax and Semantics of Type Theory, Faculty of Mathematics and Physics, Ljubljana, June 4, 2026</p>
 
