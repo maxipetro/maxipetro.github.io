@@ -13,7 +13,7 @@
 
                         <p>I run, cycle, and climb.</p>
 
-                        <p><a href="mailto:mpetrowi@uwo.ca"><i class="fa fa-envelope-o" aria-hidden="true"></i>Email</a><br><a href="https://github.com/maxipetro"><i class="fa fa-github"></i>GitHub</a><br><a href="https://strava.app.link/LM98IZV7WZb"><i class="bi bi-strava"></i>Strava</a></p>
+                        <p><a href="mailto:mpetrowi@uwo.ca"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a><br><a href="https://github.com/maxipetro"><i class="fa fa-github"></i> GitHub</a><br><a href="https://strava.app.link/LM98IZV7WZb"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-strava" viewBox="0 0 16 16"><path d="M6.731 0 2 9.125h2.788L6.73 5.497l1.93 3.628h2.766zm4.694 9.125-1.372 2.756L8.66 9.125H6.547L10.053 16l3.484-6.875z"/></svg> Strava</a></p>
                     </div>
                     <div class="col-md-4 text-center">
                         <img src="img/picture.jpg" class="img-fluid img-thumbnail" style="max-width: 250px;">
