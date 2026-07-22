@@ -42,6 +42,6 @@
 
             <p>I am contributor of the <a href="https://github.com/HoTT/Coq-HoTT">Coq-HoTT Library</a>.</p>
 
-            <p>Most recent project: <br> Formalisation of 'Integers as Higher Inductive Types' (Altenkirch and Scoccola 2020)' in Rocq/Coq, <a href="https://github.com/maxipetro/Coq-HoTT/tree/integers_hit_fresh">repo</a> (jww. Dan Christensen)</p>
+            <p>Most recent project: <br> Formalisation of <i>Integers as Higher Inductive Types</i> (Altenkirch and Scoccola 2020) in Rocq/Coq, <a href="https://github.com/maxipetro/Coq-HoTT/tree/integers_hit_fresh">repo</a> (jww. Dan Christensen)</p>
 
 <?php include 'footer.php'; ?>
