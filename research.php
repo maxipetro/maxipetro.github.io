@@ -2,7 +2,7 @@
 
             <h4>Preprints</h4>
 
-            <p>Elementary ∞-Toposes from Type Theory, <a href="https://arxiv.org/abs/2512.18891">arxiv: 2512.18891</a></p>
+            <p>Elementary ∞-Toposes from Type Theory, <a href="https://arxiv.org/abs/2512.18891">arxiv: 2512.18891</a> (jww. Daniël Apol)</p>
 
             <br>
 
