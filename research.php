@@ -2,17 +2,33 @@
 
             <h4>Preprints</h4>
 
-            <p>Elementary Infinity-Toposes from Type Theory, <a href="https://arxiv.org/abs/2512.18891">arxiv: 2512.18891</a></p>
+            <p>Elementary ∞-Toposes from Type Theory, <a href="https://arxiv.org/abs/2512.18891">arxiv: 2512.18891</a></p>
 
             <br>
 
             <h4>Talks</h4>
 
-            <p>Elementary Infinity-Toposes from Type Theory, CMS Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
+            <h5>Elementary ∞-Toposes from Type Theory</h5>
 
-            <p>Elementary Infinity-Toposes from Type Theory, 32nd Foundational Methods in Computer Science Workshop, University of Ottawa, Ottawa, June 20, 2025</p>
+            <p> Category Theory 2026, Johns Hopkins University, Baltimore, July 16, 2026</p>
 
-            <p>Nominalism and Infinite Cardinality, ic.SoAP/EENPS, Belgrade and Geneva/Lugano (Online), 2021</p>
+            <p> 3rd Workshop on Syntax and Semantics of Type Theory, Faculty of Mathematics and Physics, Ljubljana, June 4, 2026</p>
+
+            <p> Workshop on Homotopy Type Theory / Univalent Foundations 2026, Aarhus University, Aarhus, June 2, 2026</p>
+
+            <p> 32nd Foundational Methods in Computer Science Workshop, University of Ottawa, Ottawa, June 20, 2025</p>
+
+            <p>CMS Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
+
+            <h5>The Yoneda Lemma as a Principle of Structuralist Mathematics</h5>
+
+            <p>Reserach Seminar, Lugano, November 21, 2025</p>
+        
+            <h5>Nominalism and Infinite Cardinality</h5>
+
+            <p>ic.SoAP, Geneva, June 12, 2021</p>
+
+            <p>EENPS, Belgrade, May 1, 2021</p>
 
             <br>
 
