@@ -20,7 +20,7 @@
 
             <p> 32nd Foundational Methods in Computer Science Workshop, University of Ottawa, Ottawa, June 20, 2025</p>
 
-            <p>CMS Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
+            <p>Canadian Mathematical Society Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
             
             <br>
 
