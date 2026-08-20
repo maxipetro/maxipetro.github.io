@@ -40,8 +40,11 @@
 
             <h4>Formalisation projects</h4>
 
-            <p>I am contributor of the <a href="https://github.com/HoTT/Coq-HoTT">Coq-HoTT Library</a>.</p>
+            <b>Rocq/Coq</b>
 
-            <p>Most recent project: <br> Formalisation of <i>Integers as Higher Inductive Types</i> (Altenkirch and Scoccola 2020) in Rocq/Coq, <a href="https://github.com/maxipetro/Coq-HoTT/tree/integers_hit_fresh">repo</a> (jww. Dan Christensen)</p>
+            <p>I am contributor of the <a href="https://github.com/HoTT/Coq-HoTT">Coq-HoTT Library</a>. </p>
+
+            <p><i>Integers as Higher Inductive Type</i> [<a href="https://github.com/HoTT/Coq-HoTT/pull/2384" >PR</a>, <a href="https://github.com/HoTT/Coq-HoTT/commit/c689d34896a4a6edb3c2143169b39d63137ebc81">code</a>] (jww. Dan Christensen)</p>
+            <p><i>Biinvertible maps</i> [<a href="https://github.com/HoTT/Coq-HoTT/pull/2362" >PR</a>, <a href="https://github.com/maxipetro/Coq-HoTT/commit/090ebd3c5049c8ff15a799428b92ea2f9b84d0b4">code</a>] (jww. Dan Christensen)</p>
 
 <?php include 'footer.php'; ?>
