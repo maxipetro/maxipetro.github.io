@@ -25,7 +25,7 @@
 
             <br>
 
-            <i>Contributed</i>
+            <i>Contributed:</i>
 
             <p> Category Theory 2026 (International Congress of Mathematicians), Johns Hopkins University, Baltimore, July 16, 2026</p>
 
@@ -35,7 +35,7 @@
 
             <p> 32nd Foundational Methods in Computer Science Workshop, University of Ottawa, Ottawa, June 20, 2025</p>
 
-            <i>Invited</i>
+            <i>Invited:</i>
 
             <p>Canadian Mathematical Society Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
             
