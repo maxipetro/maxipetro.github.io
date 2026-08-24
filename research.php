@@ -23,6 +23,8 @@
 
             <b>Elementary ∞-Toposes from Type Theory</b>
 
+            <br>
+
             <i>Contributed</i>
 
             <p> Category Theory 2026 (International Congress of Mathematicians), Johns Hopkins University, Baltimore, July 16, 2026</p>
