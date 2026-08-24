@@ -23,6 +23,8 @@
 
             <b>Elementary ∞-Toposes from Type Theory</b>
 
+            <i>Contributed</i>
+
             <p> Category Theory 2026 (International Congress of Mathematicians), Johns Hopkins University, Baltimore, July 16, 2026</p>
 
             <p> 3rd Workshop on Syntax and Semantics of Type Theory, Faculty of Mathematics and Physics, Ljubljana, June 4, 2026</p>
@@ -31,13 +33,15 @@
 
             <p> 32nd Foundational Methods in Computer Science Workshop, University of Ottawa, Ottawa, June 20, 2025</p>
 
+            <i>Invited</i>
+
             <p>Canadian Mathematical Society Summer Meeting, Session: Category Theory: Structures and Applications, Université Laval, Quebec City, June 8, 2025</p>
             
             <br>
 
             <b>The Yoneda Lemma as a Principle of Structuralist Mathematics</b>
 
-            <p>Reserach Seminar, Lugano, November 21, 2025</p>
+            <p>Research Seminar, Lugano, November 21, 2025</p>
 
             <br>
         
