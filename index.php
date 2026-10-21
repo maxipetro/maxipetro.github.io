@@ -5,11 +5,13 @@
                     <div class="col-md-8">
                         <p>I am a PhD at student at <a href="https://www.uwo.ca">Western University</a> interested in (higher) category theory, logic, type theory, homotopical algebra, topological data analysis and machine learning. My supervisor is <a href="https://kkapulkin.github.io/">Chris Kapulkin</a>. I obtained an MSc in Mathematics from Western and an MA in Philosophy from <a href="https://www.usi.ch/en/education/master/philosophy">Università della Svizzera italiana</a>, Lugano, Switzerland. Druing my MA, I was also an exchange student at the <a href="https://msclogic.illc.uva.nl/programme/mol/">Master in Logic</a> at the <a href="https://www.illc.uva.nl/">ILLC</a> in Amsterdam, Netherlands.</p>
                     
-                        <p> Currently, I am woking on a project in topological data analysis and topological deep learning using methods from algebraic topology to study data sets with higher dimensional topological structures.
-
-                        <p>In my most recent project in category theory, I am studying models and the semantics of various logical systems, working on the interpretation and semantics of homotopy type theory (HoTT) in &infin;-categories. Part of my research is developing a semantic framework for HoTT in elementary &infin;-toposes.</p>
+                        <p>Recently, I have been woking on a project in topological data analysis and topological deep learning using methods from algebraic topology to study data sets with higher dimensional topological structures.
+			
+			<p>I am also doing resereach in machine learning in general, and in particular in natural language processing and natural language inference where I am working with BERT-style transformers.
 
                         <p>I am also interested in formalisation, autoformalisation and automated theorem proving, in particular using methods from machine leraning.</p>
+                        
+                        <p>In my most recent project in category theory, I am studying models and the semantics of various logical systems, working on the interpretation and semantics of homotopy type theory (HoTT) in &infin;-categories. Part of my research is developing a semantic framework for HoTT in elementary &infin;-toposes.</p>
 
                         <p>I run, cycle, and climb.</p>
 
