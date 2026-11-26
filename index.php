@@ -4,7 +4,7 @@
             <div class="col-md-8">
                 <p>PhD student at <a href="https://www.uwo.ca">Western University</a>, supervised by <a href="https://kkapulkin.github.io/">Chris Kapulkin</a>. Previously: MSc in Mathematics from Western and MA in Philosophy from <a href="https://www.usi.ch/en/education/master/philosophy">Università della Svizzera italiana</a>, Lugano, Switzerland, including an exchange in the <a href="https://msclogic.illc.uva.nl/programme/mol/">Master of Logic</a> at the <a href="https://www.illc.uva.nl/">ILLC</a> in Amsterdam, Netherlands.</p>
 
-                <p>My current research is in deep learning, with a particular focus on the interpretability of large language models and on AI safety. The approach is mathematical: using mathematical tools to understand how deep learning systems behave, and to make them safer and more reliable.</p>
+                <p>My current research is in deep learning, with a particular focus on interpretability of large language models and AI safety, approached from a mathematical viewpoint, using mathematical tools to understand how deep learning systems behave, and to make them safer and more reliable.</p>
 
                 <p>Alongside this, I also work in natural language processing, in particular natural language inference with BERT-style transformers.</p>
 
