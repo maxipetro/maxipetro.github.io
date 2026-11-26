@@ -2,13 +2,12 @@
 
             <h4>Publications</h4>
 
-            <h3>Machine Learning</h3>
+            <h5>Machine Learning</h5>
 
             <p><i>Reading Fine-Tuning Diffs Through Lenses: Model Diffing for Backdoor Detection</i> [<a href="https://arxiv.org/abs/2611.34758">arxiv</a>]<br>
             <small class="text-muted">with <a href="https://benconnors.ca/">Ben Connors</a> and <a href="https://kkapulkin.github.io/">Chris Kapulkin</a></small></p>
 
-
-            <h3>Mathematics</h3>
+            <h5>Mathematics</h5>
 
             <p><i>Elementary ∞-Toposes from Type Theory</i> [<a href="https://arxiv.org/abs/2512.18891">arxiv</a>]<br>
             <small class="text-muted">with Daniël Apol</small></p>
