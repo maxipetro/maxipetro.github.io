@@ -2,6 +2,8 @@
 
             <h4>Publications</h4>
 
+            <p><i>Reading Fine-Tuning Diffs Through Lenses: Model Diffing for Backdoor Detection</i> [<a href="https://arxiv.org/abs/2611.34758">arxiv</a>] (jww. Ben Connors and Chris Kapulkin)</p>
+
             <p><i>Elementary ∞-Toposes from Type Theory</i> [<a href="https://arxiv.org/abs/2512.18891">arxiv</a>] (jww. Daniël Apol)</p>
 
             <br>
